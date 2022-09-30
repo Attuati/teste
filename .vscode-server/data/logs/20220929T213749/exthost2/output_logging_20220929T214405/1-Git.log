@@ -1,0 +1,19 @@
+[2022-09-30T00:44:05.814Z] Log level: Info
+[2022-09-30T00:44:05.840Z] [info] Validating found git in: git
+[2022-09-30T00:44:05.893Z] [info] Using git 2.25.1 from git
+[2022-09-30T00:44:05.932Z] > git rev-parse --show-toplevel [11ms]
+[2022-09-30T00:44:05.932Z] fatal: this operation must be run in a work tree
+[2022-09-30T00:44:05.948Z] > git rev-parse --show-toplevel [2ms]
+[2022-09-30T00:44:05.948Z] fatal: this operation must be run in a work tree
+[2022-09-30T00:44:05.955Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-30T00:44:05.955Z] fatal: this operation must be run in a work tree
+[2022-09-30T00:44:05.972Z] > git rev-parse --show-toplevel [3ms]
+[2022-09-30T00:44:05.972Z] fatal: this operation must be run in a work tree
+[2022-09-30T00:44:06.020Z] > git rev-parse --show-toplevel [40ms]
+[2022-09-30T00:44:06.020Z] fatal: this operation must be run in a work tree
+[2022-09-30T00:44:06.053Z] > git rev-parse --show-toplevel [24ms]
+[2022-09-30T00:44:06.053Z] fatal: this operation must be run in a work tree
+[2022-09-30T00:44:06.210Z] > git rev-parse --show-toplevel [1ms]
+[2022-09-30T00:44:06.210Z] fatal: this operation must be run in a work tree
+[2022-09-30T00:47:06.049Z] > git rev-parse --show-toplevel [16ms]
+[2022-09-30T00:47:06.049Z] fatal: this operation must be run in a work tree

@@ -1,0 +1,14 @@
+[2022-09-18 16:05:54.315] [remoteagent] [info] Extension host agent started.
+[2022-09-18 16:05:54.429] [remoteagent] [info] [127.0.0.1][b9f08eba][ManagementConnection] New connection established.
+[2022-09-18 16:05:54.635] [remoteagent] [info] [127.0.0.1][1d233906][ExtensionHostConnection] New connection established.
+[2022-09-18 16:05:54.738] [remoteagent] [info] [127.0.0.1][1d233906][ExtensionHostConnection] <746> Launched Extension Host Process.
+[2022-09-18 16:09:18.265] [remoteagent] [info] Getting Manifest... tianyangguan.codemap
+[2022-09-18 16:09:18.534] [remoteagent] [info] Installing extension: tianyangguan.codemap
+[2022-09-18 16:09:20.901] [remoteagent] [info] Downloaded extension: tianyangguan.codemap /home/attuati/.vscode-server/data/CachedExtensionVSIXs/tianyangguan.codemap-0.0.1
+[2022-09-18 16:09:21.283] [remoteagent] [info] Extracted extension to /home/attuati/.vscode-server/extensions/.63e06ff1-9177-4be5-abe8-7a9fe8c0b0d9: tianyangguan.codemap
+[2022-09-18 16:09:21.313] [remoteagent] [info] Renamed to /home/attuati/.vscode-server/extensions/tianyangguan.codemap-0.0.1
+[2022-09-18 16:09:21.316] [remoteagent] [info] Extracting completed. tianyangguan.codemap
+[2022-09-18 16:09:21.317] [remoteagent] [info] Extension installed successfully: tianyangguan.codemap
+[2022-09-18 16:21:53.050] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-09-18 16:23:24.502] [remoteagent] [info] [127.0.0.1][b9f08eba][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-09-18 16:23:24.645] [remoteagent] [info] [127.0.0.1][1d233906][ExtensionHostConnection] <746> Extension Host Process exited with code: 0, signal: null.

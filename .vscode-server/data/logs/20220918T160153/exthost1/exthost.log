@@ -1,0 +1,12 @@
+[2022-09-18 16:01:55.936] [exthost] [info] Extension host with pid 463 started
+[2022-09-18 16:01:56.191] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-18 16:01:56.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-18 16:01:56.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-18 16:01:56.275] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-18 16:01:56.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-18 16:01:56.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 16:01:56.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 16:01:56.571] [exthost] [info] Eager extensions activated
+[2022-09-18 16:02:37.545] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-09-18 16:05:43.602] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-18 16:05:43.667] [exthost] [info] Extension host with pid 463 exiting with code 0

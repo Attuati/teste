@@ -1,0 +1,13 @@
+[2022-09-18 16:05:56.052] [exthost] [info] Extension host with pid 746 started
+[2022-09-18 16:05:56.122] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-09-18 16:05:56.129] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-09-18 16:05:56.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-09-18 16:05:56.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-09-18 16:05:56.319] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-09-18 16:05:56.430] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 16:05:56.457] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-09-18 16:05:56.463] [exthost] [info] Eager extensions activated
+[2022-09-18 16:06:38.385] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-09-18 16:09:21.469] [exthost] [info] ExtensionService#_doActivateExtension TianyangGuan.codemap, startup: false, activationEvent: '*'
+[2022-09-18 16:23:24.502] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-09-18 16:23:24.571] [exthost] [info] Extension host with pid 746 exiting with code 0
