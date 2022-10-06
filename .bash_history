@@ -120,3 +120,48 @@ git clone https://githun.com/YOUR-Attuati/YOUR-REPOSITORY>Cloning into `YOUR-
 
 
 git init
+git add.
+git add .
+git init
+git add .
+git it
+git init
+git add .
+git commit -m "att
+
+git remote add origin https://github.com/Attuati/teste
+git push -u origin master
+git add .
+git commit -m "att"
+git push -u origin master 
+git init
+git add .
+git commit -m 
+git init
+git add .
+git commit-m "first commit"
+git commit -m "first commit"
+git remote add origin https://github.com/adrianovogel/EC2-EstDeDados
+git push -u irigin master
+git push -u origin master
+git init
+git remote add origin https://github.com/adrianovogel/EC2-EstDeDados
+git init
+git clone https://github.com/adrianovogel/EC2-EstDeDados
+git brand
+git init
+git add .
+git commit -m "first commit"
+git clone https://github.com/adrianovogel/EC2-EstDeDados
+git remote add origin https://github.com/adrianovogel/EC2-EstDeDados
+git init
+git add .
+git cpmmit -m "firts commit"
+git commit -m "first commit"
+git pish
+git init 
+git add .
+git clone https://github.com/adrianovogel/EC2-EstDeDados
+git remote add origin https://github.com/adrianovogel/EC2-EstDeDados
+git init
+git clonehttps://github.com/adrianovogel/EC2-EstDeDados

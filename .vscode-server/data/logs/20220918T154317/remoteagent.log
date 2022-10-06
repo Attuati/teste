@@ -1,7 +1,0 @@
-[2022-09-18 15:43:17.611] [remoteagent] [info] Extension host agent started.
-[2022-09-18 15:43:17.848] [remoteagent] [info] [127.0.0.1][9a09f533][ManagementConnection] New connection established.
-[2022-09-18 15:43:18.172] [remoteagent] [info] [127.0.0.1][fcfb4860][ExtensionHostConnection] New connection established.
-[2022-09-18 15:43:18.186] [remoteagent] [info] [127.0.0.1][fcfb4860][ExtensionHostConnection] <81> Launched Extension Host Process.
-[2022-09-18 15:43:18.195] [remoteagent] [info] Deleted from disk ms-vscode.cmake-tools /home/attuati/.vscode-server/extensions/ms-vscode.cmake-tools-1.12.26
-[2022-09-18 15:45:08.248] [remoteagent] [info] [127.0.0.1][9a09f533][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[2022-09-18 15:45:08.409] [remoteagent] [info] [127.0.0.1][fcfb4860][ExtensionHostConnection] <81> Extension Host Process exited with code: 0, signal: null.

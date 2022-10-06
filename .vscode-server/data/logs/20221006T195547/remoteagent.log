@@ -1,0 +1,12 @@
+[2022-10-06 19:55:47.492] [remoteagent] [info] Extension host agent started.
+[2022-10-06 19:55:48.095] [remoteagent] [info] [127.0.0.1][3a71f453][ManagementConnection] New connection established.
+[2022-10-06 19:55:48.098] [remoteagent] [info] [127.0.0.1][53e62f5c][ExtensionHostConnection] New connection established.
+[2022-10-06 19:55:48.108] [remoteagent] [info] [127.0.0.1][53e62f5c][ExtensionHostConnection] <1638> Launched Extension Host Process.
+[2022-10-06 19:55:54.166] [remoteagent] [info] Getting Manifest... ms-ceintl.vscode-language-pack-pt-br
+[2022-10-06 19:55:54.444] [remoteagent] [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br
+[2022-10-06 19:55:55.938] [remoteagent] [info] Downloaded extension: ms-ceintl.vscode-language-pack-pt-br /home/attuati/.vscode-server/data/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-pt-br-1.72.10050951
+[2022-10-06 19:55:56.079] [remoteagent] [info] Extracted extension to /home/attuati/.vscode-server/extensions/.645cfb44-3751-4b62-a314-4fcde9a34b1a: ms-ceintl.vscode-language-pack-pt-br
+[2022-10-06 19:55:56.113] [remoteagent] [info] Renamed to /home/attuati/.vscode-server/extensions/ms-ceintl.vscode-language-pack-pt-br-1.72.10050951
+[2022-10-06 19:55:56.115] [remoteagent] [info] Extracting completed. ms-ceintl.vscode-language-pack-pt-br
+[2022-10-06 19:55:56.115] [remoteagent] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+[2022-10-06 19:55:56.172] [remoteagent] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br
